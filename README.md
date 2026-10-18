@@ -775,7 +775,3 @@ Investor terms (returns, fees, lock-in, withdrawal, referral) are governed by th
 The production source remains private. This public repository contains documentation only.
 
 ---
-
-nyone may reuse this as a product spec” — All Rights Reserved is the correct default.
-
-If you later want a second public page (security.txt, brand guidelines), keep the same rule: capabilities and principles, never knobs and never people.
